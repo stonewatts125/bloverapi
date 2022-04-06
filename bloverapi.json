@@ -1,0 +1,203 @@
+
+{
+    "slides":[
+        
+            {
+                "id": 0 ,
+                "title":"RICHEST AND BIGGEST GROUP OF ALL TIME",
+                "description":"Lorem iespum ncbdcjcjnknckscne",
+                "news_source":"Forbes",
+                "link":""
+            },
+            {
+                "id": 1 ,
+                "title":"STONE 2026 SUMMER SHOW IN MILAN IS A PIECE OF ART",
+                "description":"Lorem iespum ncbdcjcjnknckscne",
+                "news_source":"Vogue",
+                "link":""
+            },
+            {
+                "id": 2 ,
+                "title":"IS BLOVER INTENDING TO BUY CHELSEA FOOTBALL CLUB ?",
+                "description":"Lorem iespum ncbdcjcjnknckscne",
+                "news_source":"NY Times",
+                "link":""
+            },
+        
+        
+            {
+                "id": 3 ,
+                "title":"'SUSTAINABILITY' IS OUR TOP PRIORITY",
+                "description":"Lorem iespum ncbdcjcjnknckscne",
+                "news_source":"Vesper Times",
+                "link":""
+            },
+            {
+                "id": 4 ,
+                "title":"BLOVER'S STOCK REACHS THE HIGGEST NUMBER",
+                "description":"Lorem iespum ncbdcjcjnknckscne",
+                "news_source":"Business Insider",
+                "link":""
+            },
+            {
+                "id": 5 ,
+                "title":"BLOVER REAL ESTATE HAS SOLD OVER $10B IN 2025",
+                "description":"Lorem iespum ncbdcjcjnknckscne",
+                "news_source":"LA Times",
+                "link":""
+            }
+    ],
+    
+
+    "search":[
+        {
+            "id":1,
+            "type":"job",
+            "search_name":"job1",
+            "link":""
+        },
+        {
+            "id":2,
+            "type":"job",
+            "search_name":"job2",
+            "link":""
+        },
+        {
+            "id":3,
+            "type":"job",
+            "search_name":"job3",
+            "link":""
+        },
+        {
+            "id":4,
+            "type":"job",
+            "search_name":"job4",
+            "link":""
+        },
+        {
+            "id":5,
+            "type":"job",
+            "search_name":"job5",
+            "link":""
+        },
+
+
+        {
+            "id":1,
+            "type":"doc",
+            "search_name":"doc1",
+            "link":""
+        },
+        {
+            "id":2,
+            "type":"doc",
+            "search_name":"doc2",
+            "link":""
+        },
+        {
+            "id":3,
+            "type":"doc",
+            "search_name":"doc3",
+            "link":""
+        },
+        {
+            "id":4,
+            "type":"doc",
+            "search_name":"doc4",
+            "link":""
+        },
+        {
+            "id":5,
+            "type":"doc",
+            "search_name":"doc5",
+            "link":""
+        },
+
+       
+        {
+            "id":1,
+            "type":"news",
+            "search_name":"RICHEST AND BIGGEST GROUP OF ALL TIME",
+            "link":""
+        },
+        {
+            "id":2,
+            "type":"news",
+            "search_name":"STONE 2026 SUMMER SHOW IN MILAN IS A PIECE OF ART",
+            "link":""
+        },
+        {
+            "id":3,
+            "type":"news",
+            "search_name":"IS BLOVER INTENDING TO BUY CHELSEA FOOTBALL CLUB ?",
+            "link":""
+        },
+        {
+            "id":4,
+            "type":"news",
+            "search_name":"'SUSTAINABILITY' IS OUR TOP PRIORITY",
+            "link":""
+        },
+        {
+            "id":5,
+            "type":"news",
+            "search_name":"BLOVER'S STOCK REACHS THE HIGGEST NUMBER",
+            "link":""
+        },
+        {
+            "id":6,
+            "type":"news",
+            "search_name":"BLOVER REAL ESTATE HAS SOLD OVER $10B IN 2025",
+            "link":""
+        },   
+
+
+
+
+        {
+            "id":1,
+            "type":"company",
+            "search_name":"BLOVER REAL ESTATE",
+            "link":""
+        },
+        {
+            "id":2,
+            "type":"company",
+            "search_name":"BLOVER ARCHITECTURE",
+            "link":""
+        },
+        {
+            "id":3,
+            "type":"company",
+            "search_name":"STONE",
+            "link":""
+        },
+        {
+            "id":4,
+            "type":"company",
+            "search_name":"BLOVER INTERIOR",
+            "link":""
+        },
+        {
+            "id":5,
+            "type":"company",
+            "search_name":"BLOVER TECHNOLOGY",
+            "link":""
+        }  
+                
+    ],
+    "accounts":[
+        {"firstName":"Stone","lastName":"Watts","userName":"stonewatts","email":"stonewatts@gmail.com","password":"bkp12052002","passconfirm":"bkp12052002","deal":true,"id":"BLVRU$R220012022225232431"},
+        {"firstName":"Miranda","lastName":"Kerr","userName":"mirandakerr","email":"mirandakerr@contact.com","password":"mirandakerr1983","passconfirm":"mirandakerr1983","deal":true,"id":"BLVRU$R363622022225232554"},        
+        {"firstName":"Jay","lastName":"Gould","userName":"jaygould96","email":"jaygould@gmail.com","password":"jaygould1996","passconfirm":"jaygould1996","deal":true,"id":"BLVRU$R3960202222523278"}
+    ]
+
+    
+
+
+
+
+
+
+    
+}
