@@ -190,6 +190,43 @@
         {"firstName":"Stone","lastName":"Watts","userName":"stonewatts","email":"stonewatts@gmail.com","password":"bkp12052002","passconfirm":"bkp12052002","deal":true,"id":"BLVRU$R220012022225232431"},
         {"firstName":"Miranda","lastName":"Kerr","userName":"mirandakerr","email":"mirandakerr@contact.com","password":"mirandakerr1983","passconfirm":"mirandakerr1983","deal":true,"id":"BLVRU$R363622022225232554"},        
         {"firstName":"Jay","lastName":"Gould","userName":"jaygould96","email":"jaygould@gmail.com","password":"jaygould1996","passconfirm":"jaygould1996","deal":true,"id":"BLVRU$R3960202222523278"}
+    ],
+    "comapnies": [
+        {
+            "id": "re",
+            "name": "BLOVER REAL ESTATE",
+            "description": "BLOVER REAL ESTATE is offering and developing the finest luxury real estates around the world. As #1 real estate agent in the world, BLVRRE sold over $10B last year. We has presented in 25 different countries around the world.",
+            "image": "",
+            "url": ""
+        },
+        {
+            "id": "ar",
+            "name": "BLOVER ARCHITECTURE",
+            "description": "Our projects reflect an interest in modern living and a desire to connect our clients to the beauty of the surrounding natural environment.Making extensive use of glazing systems to maximize views and provide a warm light filled contemporary space. Our designs reach perfection.",
+            "image": "",
+            "url": ""
+        },
+        {
+            "id": "st",
+            "name": "STONE",
+            "description": "Founded in 2023, our first products include apparel and leather goods, then expanded to more categories of cosmetics and high-jewelry. We are currently focusing on haute couture, beauty products and high-fragrances.",
+            "image": "",
+            "url": ""
+        },
+        {
+            "id": "int",
+            "name": "BLOVER INTERIOR",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in.",
+            "image": "",
+            "url": ""
+        },
+        {
+            "id": "tech",
+            "name": "BLOVER TECHNOLOGY",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in.",
+            "image": "",
+            "url": ""
+        }
     ]
 
     
