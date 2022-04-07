@@ -193,35 +193,35 @@
     ],
     "comapnies": [
         {
-            "id": "1",
+            "id": "0",
             "name": "BLOVER REAL ESTATE",
             "description": "BLOVER REAL ESTATE is offering and developing the finest luxury real estates around the world. As #1 real estate agent in the world, BLVRRE sold over $10B last year. We has presented in 25 different countries around the world.",
             "image": "",
             "url": ""
         },
         {
-            "id": "2",
+            "id": "1",
             "name": "BLOVER ARCHITECTURE",
             "description": "Our projects reflect an interest in modern living and a desire to connect our clients to the beauty of the surrounding natural environment.Making extensive use of glazing systems to maximize views and provide a warm light filled contemporary space. Our designs reach perfection.",
             "image": "",
             "url": ""
         },
         {
-            "id": "3",
+            "id": "2",
             "name": "STONE",
             "description": "Founded in 2023, our first products include apparel and leather goods, then expanded to more categories of cosmetics and high-jewelry. We are currently focusing on haute couture, beauty products and high-fragrances.",
             "image": "",
             "url": ""
         },
         {
-            "id": "4",
+            "id": "3",
             "name": "BLOVER INTERIOR",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in.",
             "image": "",
             "url": ""
         },
         {
-            "id": "5",
+            "id": "4",
             "name": "BLOVER TECHNOLOGY",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in.",
             "image": "",
